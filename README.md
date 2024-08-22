@@ -1,4 +1,4 @@
 ### Used APIs 
-- Geolocation API
-- OpenWeather API
-- CoinGecko API
+- Geolocation API : https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
+- OpenWeather API : https://openweathermap.org/api
+- CoinGecko API : https://www.coingecko.com/en/api
